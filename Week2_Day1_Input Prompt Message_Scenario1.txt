@@ -1,0 +1,11 @@
+Context:
+As a QA Architect, prepare a Test Strategy Document for a Retail E-commerce application. 
+
+Instruction:
+Ask me 5 questions one by one for creating the test strategy 
+Ask the next question only after I answer the previous one 
+Follow enterprise and industry standards Use structured reasoning (chain-of-thought internally) 
+Cover functional, non-functional, and business scenarios 
+
+Output:
+Generate the Test Strategy Document in a format suitable for Word document Include all key sections like scope, approach, testing types, environments, risks, and reporting After generating, analyze and review the results
