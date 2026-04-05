@@ -1,0 +1,7 @@
+{
+  "model": "openai/gpt-oss-120b",
+  "messages": [
+    {"role": "system", "content": "Always respond in the same language as the user."},
+    {"role": "user", "content": "சென்னை நகரில் சுற்றுலா செய்ய சிறந்த இடங்கள் எவை?"}
+  ]
+}

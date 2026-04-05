@@ -1,0 +1,9 @@
+{
+  "model": "groq/compound-mini",
+  "messages": [
+    {
+      "role": "user",
+      "content": "What is Rajnikanth Indian Actor original name, Give only the name no more information,explanation or Hallucination details are required"
+    }
+  ]
+}
